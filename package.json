@@ -1,6 +1,7 @@
 {
   "name": "webfonts-noto-sans-jp",
   "version": "5.0.0",
+  "style": "css/notosansjp.css",
   "description": "",
   "repository": {
     "type": "git",
