@@ -1,0 +1,15 @@
+{
+  "name": "webfonts-noto-sans-jp",
+  "version": "5.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikoim/webfonts-noto-sans-jp.git"
+  },
+  "author": "Adobe Systems",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/mikoim/webfonts-noto-sans-jp/issues"
+  },
+  "homepage": "https://www.google.com/get/noto/"
+}
